@@ -1,0 +1,13 @@
+[package]
+name = "doc-db"
+description = "A simple, In-Memory Document Database."
+version = "0.0.0"
+edition = "2021"
+authors = ["Palash Kanti Kundu"]
+readme = "README.md"
+repository = "https://github.com/Palash90/doc-db"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
