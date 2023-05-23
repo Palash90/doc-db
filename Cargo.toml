@@ -1,6 +1,6 @@
 [package]
 name = "doc-db"
-description = "A simple, In-Memory Document Database."
+description = "(Under development) A simple, In-Memory Document Database."
 version = "0.0.0"
 edition = "2021"
 authors = ["Palash Kanti Kundu"]
